@@ -16,10 +16,7 @@
 ### Muy buenas, mi nombre es Ángel.
 
 
-- :telescope:
-
-- :seedling: 
-
-- :zap: 
+- En proceso de ser analista de datos, aprendiendo todos los dias y trabajando sin descanso.
+- Mejorando poco a poco, entre otras cosas, este README.
 
 ---
